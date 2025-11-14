@@ -24,6 +24,8 @@ Nó 9 -  Bloco `catch`
 
 Nó 10 - return result` / Fim
 
+## Total de nós = 10
+
 Fluxo entre os nós
 
 1→2
@@ -47,6 +49,8 @@ Fluxo entre os nós
 4→9 (exceção)
 
 9→10
+
+## Total de arestas = 11
 
 
 ## COMPLEXIDADE CICLOMÁTICA
