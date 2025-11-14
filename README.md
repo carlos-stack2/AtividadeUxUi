@@ -42,7 +42,7 @@ Fluxo entre os nós
 
 ## COMPLEXIDADE CICLOMÁTICA
 
-Fórumula
+Fórmula
 
 M = E − N + 2P
 
