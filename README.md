@@ -4,15 +4,24 @@
 
 NÓS
 
-Nó 1 -  Início do método                        
-Nó 2 - Montagem do SQL                          
-Nó 3 - Conexão com BD (`conectarBD()`)          
-Nó 4 - Início do `try`                          
-Nó 5 - Criação de `Statement`                   
-Nó 6 - Execução da consulta (`executeQuery`)    
-Nó 7 - Decisão: `if(rs.next())`                 
+Nó 1 -  Início do método
+
+Nó 2 - Montagem do SQL 
+
+Nó 3 - Conexão com BD (`conectarBD()`)  
+
+Nó 4 - Início do `try`  
+
+Nó 5 - Criação de `Statement`  
+
+Nó 6 - Execução da consulta (`executeQuery`) 
+
+Nó 7 - Decisão: `if(rs.next())` 
+
 Nó 8 - Atribui `result = true` e captura `nome` 
-Nó 9 -  Bloco `catch`                            
+
+Nó 9 -  Bloco `catch`
+
 Nó 10 - return result` / Fim
 
 Fluxo entre os nós
